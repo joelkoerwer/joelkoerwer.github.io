@@ -1,0 +1,10 @@
+name: JoelKoerwer.github.io
+url: http://joelkoerwer.github.io
+description: Gibberish about math, optics, chess, etc.
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+markdown: kramdown
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
