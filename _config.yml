@@ -1,9 +1,12 @@
-name: JoelKoerwer.github.io
+title: Joel<br/>Koerwer<br/>.github<br/>.io
 url: http://joelkoerwer.github.io
 description: Gibberish about math, optics, chess, etc.
+author:
+    name: Joel Koerwer
+version: 0.1
 
 permalink: /:year/:month/:day/:title/
-paginate: 10
+paginate: 5
 pygments: true
 markdown: kramdown
 
